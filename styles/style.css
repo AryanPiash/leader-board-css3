@@ -120,7 +120,7 @@ main{
 .title{
     font-size: 19px;
     font-weight: 500;
-    width: 164px;
+    width: 200px;
 }
 .author{
     color: #9F9F9F;
@@ -128,7 +128,7 @@ main{
 .author a{
     color: #562EFF;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 
@@ -140,6 +140,7 @@ main{
  .banner img{
      width: 224px;
      height: 104px;
+     margin-bottom: 10px;
  }
  .course{
      box-shadow: 0px 5.34229px 13.3557px rgb(0 0 0 / 5%);
@@ -149,12 +150,12 @@ main{
      border-radius: 7px;
  }
  .course-info h3{
-    font-size: 19px;
+    font-size: 17px;
     font-weight: 500;
 }
  .course-author{
     color: #ED6B4F;
-    font-size: 14px;
+    font-size: 13px;
     margin-top: 7px;
     margin-bottom: 12px;
 }
